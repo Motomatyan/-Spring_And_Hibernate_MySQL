@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e588a13-a863-416f-bd55-c06b7ac6895a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestManyToMany/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestManyToMany/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestManyToMany/entity/Children.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestManyToMany/entity/Section.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToManyBI/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToManyBI/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToManyBI/entity/Departments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToManyBI/entity/Employees3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToManyUni/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToManyUni/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToManyUni/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToManyUni/entity/Employees_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToOne/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToOne/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToOne/entity/Details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HibernateTestOneToOne/entity/Employees2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/AroundLoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/ExceptionsAspects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/MyPointcuts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/SecurityAspects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernateTestCRUD/DeleteObjectFromBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernateTestCRUD/GetObjectFromBDWithHQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernateTestCRUD/GetObjectFromBDWithId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernateTestCRUD/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernateTestCRUD/InsertObjectToBd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernateTestCRUD/UpdateObjectFromBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernateTestCRUD/entity/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/myConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="hibernate-configuration-5.2" />
+        <option value="hibernate-main-5.2" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/resources/hibernate.cfg.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aop/Book.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aop/Library.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aop/Test1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aop/Test2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aop/aspects/AroundLoggingAspect.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aop/aspects/SecurityAspects.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MljVbbP0gYwjE282SeamOoPX78" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JPA.DatabaseSchemaImportDialog": "09a1d231-e75a-462e-b76f-4f1102d16bf9",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/olgas/IdeaProjects/SpringLearning",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.30352303",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "spring.configuration.checksum": "da4757938c5993556c28d76a2cb288c2"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\olgas\IdeaProjects\SpringLearning\src\main\java\HibernateTestOneToManyUni" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="HibernateTestManyToMany.entity" />
+      <recent name="HibernateTestOneToMany.entity" />
+      <recent name="HibernateTestDirectionals.entity" />
+      <recent name="hibernate_test.entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HibernateTestOneToManyUni" />
+      <recent name="HibernateTestOneToMany" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HibernateTestManyToMany.Test1">
+    <configuration name="DeleteObjectFromBD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernateTestCRUD.DeleteObjectFromBD" />
+      <module name="SpringLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernateTestCRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateTestManyToMany.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HibernateTestManyToMany.Test1" />
+      <module name="SpringLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HibernateTestManyToMany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateTestOneToManyBI.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HibernateTestOneToManyBI.Test1" />
+      <module name="SpringLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HibernateTestOneToManyBI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateTestOneToManyUni.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HibernateTestOneToManyUni.Test1" />
+      <module name="SpringLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HibernateTestOneToManyUni.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HibernateTestOneToOne.Test1" />
+      <module name="SpringLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HibernateTestOneToOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HibernateTestManyToMany.Test1" />
+        <item itemvalue="Application.HibernateTestOneToManyBI.Test1" />
+        <item itemvalue="Application.HibernateTestOneToManyUni.Test1" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.DeleteObjectFromBD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e588a13-a863-416f-bd55-c06b7ac6895a" name="Changes" comment="" />
+      <created>1678349091256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678349091256</updated>
+      <workItem from="1678349092855" duration="9882000" />
+      <workItem from="1678695477987" duration="5669000" />
+      <workItem from="1678783685228" duration="5606000" />
+      <workItem from="1678866486370" duration="2034000" />
+      <workItem from="1678884486535" duration="2583000" />
+      <workItem from="1679296098070" duration="11737000" />
+      <workItem from="1679382695635" duration="5604000" />
+      <workItem from="1679389994369" duration="2405000" />
+      <workItem from="1679470502497" duration="9194000" />
+      <workItem from="1679555992382" duration="4795000" />
+      <workItem from="1679641779988" duration="1244000" />
+      <workItem from="1684236072520" duration="323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
